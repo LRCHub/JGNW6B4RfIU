@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Day×dream",
+  "base_artist": "z²",
+  "createdAt": "2025-12-04T07:56:06.261287Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Day Dream (First Sessions Outtake)",
+      "artist": "Norah Jones",
+      "has_synced": false,
+      "path": "select/01_Day_Dream_(First_Sessions_Outtake)_Norah_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Day Dream (First Sessions outtake)",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/02_Day_Dream_(First_Sessions_outtake)_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "40 Day Dream",
+      "artist": "Edward Sharpe & The Magnetic Zeros",
+      "has_synced": true,
+      "path": "select/03_40_Day_Dream_Edward_Sharpe_&_The_Magnetic_Zeros.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rainy Day, Dream Away",
+      "artist": "Jimi Hendrix",
+      "has_synced": true,
+      "path": "select/04_Rainy_Day,_Dream_Away_Jimi_Hendrix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rainy Day, Dream Away",
+      "artist": "The Jimi Hendrix Experience",
+      "has_synced": true,
+      "path": "select/05_Rainy_Day,_Dream_Away_The_Jimi_Hendrix_Experience.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "rainy Day,Dream Away",
+      "artist": "Jimi Hendrix",
+      "has_synced": true,
+      "path": "select/06_rainy_Day,Dream_Away_Jimi_Hendrix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Day Dream",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/07_Day_Dream_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Day-Dream",
+      "artist": "June Christy",
+      "has_synced": false,
+      "path": "select/08_Day-Dream_June_Christy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rainy Day, Dream Away - Demo",
+      "artist": "Jimi Hendrix",
+      "has_synced": false,
+      "path": "select/09_Rainy_Day,_Dream_Away_-_Demo_Jimi_Hendrix.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Day Dream",
+      "artist": "Bobby Darin",
+      "has_synced": true,
+      "path": "select/10_Day_Dream_Bobby_Darin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Day Dream",
+      "artist": "Johnny Hodges",
+      "has_synced": false,
+      "path": "select/11_Day_Dream_Johnny_Hodges.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Day Dream",
+      "artist": "Gregory Porter",
+      "has_synced": true,
+      "path": "select/12_Day_Dream_Gregory_Porter.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rainy Day, Dream Away",
+      "artist": "Colin James",
+      "has_synced": false,
+      "path": "select/13_Rainy_Day,_Dream_Away_Colin_James.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(Day Dream) Prayer",
+      "artist": "Joe Walsh",
+      "has_synced": true,
+      "path": "select/14_(Day_Dream)_Prayer_Joe_Walsh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Day×dream",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_Day×dream_z2.txt"
+    }
+  ]
+}
